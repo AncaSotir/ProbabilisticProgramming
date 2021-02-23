@@ -104,7 +104,7 @@ The notebooks in html format can be viewed by accessing the following links:
 
 <hr>
 
-2. **Bayesian Learning for Neural Networks in Pyro**
+2. **Bayesian Learning for Neural Networks in Pyro and PyTorch**
 
     The task: comparing bayesian networks and classic neural networks.
     This comparison is done by considering the following tasks:
