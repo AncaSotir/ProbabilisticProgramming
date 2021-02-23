@@ -102,6 +102,7 @@ The notebooks in html format can be viewed by accessing the following links:
     
           ![Assign topic to new document](images/assign_new_doc.png)
 
+<hr>
 
 2. **Bayesian Learning for Neural Networks in Pyro**
 
