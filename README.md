@@ -60,7 +60,7 @@ This repo contains two projects on Probabilistic Programming. The notebooks in h
             of fascism.
 
 
-    [image for visualizing topics]
+          ![Visualize Topics](images/visualize_topics.png)
             
             Cosmology is a branch of astronomy concerned with the studies of the origin and evolution of the universe, from the Big Bang to today and on
             into the future. It is the scientific study of the origin, evolution, and eventual fate of the universe.
@@ -73,13 +73,13 @@ This repo contains two projects on Probabilistic Programming. The notebooks in h
             Topic 4: 
             Topic 5: branch, concern, bang, future, study, fate, universe
     
-    [image for visualizing document]
+          ![Visualize Document](images/visualize_document.png)
   
     Additional tasks:
       - topic-based similarity between documents
       - assign topic to a new document
 
-    [image for similarity matrix]
+          ![Topic-based Similarity](images/similarity.png)
     
             A supernova is a powerful and luminous stellar explosion. This transient astronomical event occurs  during the last evolutionary stages of a
             massive star or when a white dwarf is triggered into runaway nuclear fusion.
@@ -92,7 +92,7 @@ This repo contains two projects on Probabilistic Programming. The notebooks in h
             Topic 4: luminous
             Topic 5: event, dwarf, trigger, runaway
     
-    [image for visualizing topic assigned to a new document]
+          ![Assign topic to new document](images/assign_new_doc.png)
 
 
 2. **Bayesian Learning for Neural Networks in Pyro**
