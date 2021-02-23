@@ -1,6 +1,6 @@
 # Probabilistic Programming
 
-This repo contains two projects on Probabilistic Programming.
+This repo contains two projects on Probabilistic Programming. The notebooks in html format can also be found in this repo.
 
 1. **Latent Dirichlet Allocation (LDA) in PyMC**
 
