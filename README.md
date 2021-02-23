@@ -62,8 +62,6 @@ This repo contains two projects on Probabilistic Programming. The notebooks in h
 
     [image for visualizing topics]
             
-            Document #12:
-
             Cosmology is a branch of astronomy concerned with the studies of the origin and evolution of the universe, from the Big Bang to today and on
             into the future. It is the scientific study of the origin, evolution, and eventual fate of the universe.
 
@@ -82,6 +80,18 @@ This repo contains two projects on Probabilistic Programming. The notebooks in h
       - assign topic to a new document
 
     [image for similarity matrix]
+    
+            A supernova is a powerful and luminous stellar explosion. This transient astronomical event occurs  during the last evolutionary stages of a
+            massive star or when a white dwarf is triggered into runaway nuclear fusion.
+
+            Topic assignments for the words in this document:
+            -------------------------------------------------
+            Topic 1: last
+            Topic 2: powerful, stellar, explosion, transient, evolutionary, star, white, nuclear, fusion
+            Topic 3: supernova, astronomical, occur, stage, massive
+            Topic 4: luminous
+            Topic 5: event, dwarf, trigger, runaway
+    
     [image for visualizing topic assigned to a new document]
 
 
