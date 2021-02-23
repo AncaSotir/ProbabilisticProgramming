@@ -8,6 +8,58 @@ This repo contains two projects on Probabilistic Programming. The notebooks in h
       - to infer the documents distribution over the topics
       - to infer the topic distribution over the vocabulary
 
+            Found 5 topics and 25 documents.
+
+            -----------------------------------------------------------------------------------------------------------------
+            This dataset is formed by extracting text from different Wikipedia articles. Each document is 2-3 sentences long.
+
+            TOPIC 1: ASTRONOMY
+            1: https://en.wikipedia.org/wiki/Solar_System
+            2: https://en.wikipedia.org/wiki/Super-Earth
+            3: https://en.wikipedia.org/wiki/Cosmology
+            4: https://en.wikipedia.org/wiki/Supernova_remnant
+            5: https://en.wikipedia.org/wiki/Star
+
+
+            TOPIC 2: BUSINESS
+            1: https://en.wikipedia.org/wiki/Business
+            2: https://en.wikipedia.org/wiki/Stock_market
+            3: https://en.wikipedia.org/wiki/Corporation
+            4: https://en.wikipedia.org/wiki/Wall_Street
+            5: https://en.wikipedia.org/wiki/NASDAQ
+
+
+            TOPIC 3: COOKING
+            1: https://en.wikipedia.org/wiki/Food_presentation
+            2: https://en.wikipedia.org/wiki/Entr%C3%A9e
+            3: https://en.wikipedia.org/wiki/Condiment
+            4: https://en.wikipedia.org/wiki/Vegetarianism
+            5: https://en.wikipedia.org/wiki/Culinary_arts
+
+
+            TOPIC 4: HISTORY
+            1: https://en.wikipedia.org/wiki/World_War_II
+            2: https://en.wikipedia.org/wiki/Soviet%E2%80%93Japanese_border_conflicts
+            3: https://en.wikipedia.org/wiki/German_Revolution_of_1918%E2%80%931919
+            4: https://en.wikipedia.org/wiki/Spanish_Civil_War
+            5: https://en.wikipedia.org/wiki/Second_Sino-Japanese_War
+
+
+            TOPIC 5: SPORTS
+            1: https://en.wikipedia.org/wiki/Tennis
+            2: https://en.wikipedia.org/wiki/Golf
+            3: https://en.wikipedia.org/wiki/Baseball
+            4: https://en.wikipedia.org/wiki/Handball
+            5: https://en.wikipedia.org/wiki/Volleyball
+
+            -----------------------------------------------------------------------------------------------------------------
+
+            A random data sample:
+            The Spanish Civil War exposed political divisions across Europe. The right and the Catholics supported the Nationalists to stop the spread
+            of Bolshevism. On the left, including labour unions, students and intellectuals, the war represented a necessary battle to stop the spread
+            of fascism.
+
+
     [image for visualizing topics]
     [image for visualizing document]
   
