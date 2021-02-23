@@ -100,11 +100,20 @@ This repo contains two projects on Probabilistic Programming. The notebooks in h
     The task: comparing bayesian networks and classic neural networks.
     This comparison is done by considering the following tasks:
       - a linearly separable binary classification problem
+      
+      ![Linearly Separable Binary Classification](images/lin_sep.png)
+      
       - a non-linearly separable binary classification problem
+      
+      ![Non-Linearly Separable Binary Classification](images/two_moons.png)
+      
       - a multinomial classification problem
+      
+      ![Multinomial Classification](images/multinomial.png)
+      
+      
     Extra experiment: in the case of bayesian networks, the weights and bias are inferred; inference over the network architecture (i.e. hidden layer size) was also attempted.
     
-    [images with the problems]
     
     Result summary:
       Problem type | Bayesian Network results | Classic Network results | Notes
