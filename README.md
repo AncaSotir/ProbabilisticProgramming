@@ -1,6 +1,14 @@
 # Probabilistic Programming
 
-This repo contains two projects on Probabilistic Programming. The notebooks in html format can also be found in this repo.
+This repo contains two projects on Probabilistic Programming.
+
+The notebooks in html format can be viewed by accessing the following links:
+
+1. https://htmlpreview.github.io/?https://github.com/AncaSotir/ProbabilisticProgramming/blob/main/LDA.html
+
+2. https://htmlpreview.github.io/?https://github.com/AncaSotir/ProbabilisticProgramming/blob/main/BayesianLearningForNeuralNetworks.html
+
+<hr>
 
 1. **Latent Dirichlet Allocation (LDA) in PyMC**
 
