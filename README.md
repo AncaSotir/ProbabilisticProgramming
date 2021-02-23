@@ -61,6 +61,20 @@ This repo contains two projects on Probabilistic Programming. The notebooks in h
 
 
     [image for visualizing topics]
+            
+            Document #12:
+
+            Cosmology is a branch of astronomy concerned with the studies of the origin and evolution of the universe, from the Big Bang to today and on
+            into the future. It is the scientific study of the origin, evolution, and eventual fate of the universe.
+
+            Topic assignments for the words in this document:
+            -------------------------------------------------
+            Topic 1: 
+            Topic 2: 
+            Topic 3: cosmology, astronomy, study, origin, evolution, universe, big, today, scientific, origin, evolution, eventual
+            Topic 4: 
+            Topic 5: branch, concern, bang, future, study, fate, universe
+    
     [image for visualizing document]
   
     Additional tasks:
